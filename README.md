@@ -26,6 +26,9 @@ Then, you can execute `launch.sh`, be sure that the file is executable, if not, 
 ./launch.sh
 ```
 
+## Usage
+
+
 ## Issues
 When your have launched your bar, some issues may occur.
 
