@@ -19,6 +19,7 @@ Once you have polybar, you can clone the repository in the `.config/polybar` fol
 cd 
 cd .config/polybar
 git clone https://github.com/Crowerade/transparentpolybar.git
+cd transparentpolybar
 ```
 Then, you can execute `launch.sh`, be sure that the file is executable, if not, you can make it executable by typing `chmod +x launch.sh`
 ```
