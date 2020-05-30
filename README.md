@@ -4,7 +4,7 @@
 ![screenshot 3](https://github.com/Crowerade/transparentpolybar/blob/master/Screenshots/Screenshot%20from%202020-05-29%2014-55-31.png)
 ![screenshot 4](https://github.com/Crowerade/transparentpolybar/blob/master/Screenshots/Screenshot%20from%202020-05-29%2014-57-42.png)
 
-Background available [here](https://github.com/LaniJW/linux-pictures/)
+Background available [here](https://github.com/LaniJW/linux-pictures/).
 
 A config for polybar highly inspired by polybar-1 in [polybar-themes](https://github.com/adi1090x/polybar-themes).
 
