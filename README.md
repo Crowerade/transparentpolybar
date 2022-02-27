@@ -61,7 +61,7 @@ Finally, you can display the power menu by clicking on the final item. Research 
 When your have launched your bar, some issues may occur.
 
 ### Clicking does not work
-They are icons that are clickable : 
+There are icons that are clickable : 
 - The terminal 🠒 `gnome-terminal`
 - The file 🠒 `nautilus`
 - The browser 🠒 `firefox`
