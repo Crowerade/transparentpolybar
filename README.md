@@ -72,6 +72,6 @@ These icons should launch the determined software when you click them. If it doe
 For instance : You use Chrome instead of Firefox, then you will have to replace `firefox` by `chrome` in the module "browser".
 
 ### Offset Workspaces
-It is possible that the workspaces indicators are offset and it displays that you are on the first workspace when you are on the second and so one.
+It is possible that the workspaces indicators are offset and it displays that you are on the first workspace when you are on the second and so on.
 
 For this issue, I have no proper solution to give. Thus I ask to those who are more skilled than I am, if you find a solution then please tell me so that I can adjust the repository.
